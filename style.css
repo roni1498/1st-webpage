@@ -70,7 +70,8 @@
 }
 .about{
     text-align: center;
-    padding-top: 10px;
+    padding: 40px;
+    
 }
 .box{
     width: 230px;
@@ -91,6 +92,10 @@
 
 .title-head{
     padding:10px
+}
+.service{
+    color: white;
+    background-color: black;
 }
 .service-container{
     padding: 40px;
@@ -121,6 +126,5 @@
 .copy{
     background-color: black;
     color: white;
-    display: flex;
-    justify-content: center;
+    text-align: center;
 }
